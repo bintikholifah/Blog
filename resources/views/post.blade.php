@@ -4,7 +4,7 @@
 <article>
     <h1 class="mb-5">{{ $post->title }}</h1>
     
-    <p>By. Binti Kholifah in {{ $post->category->name }}</p>
+    <p>By. Binti Kholifah in <a href="/categories/{{ $post->category->slug }}">{{ $post->category->name }}</a></p>
 
     {!! $post->body !!}
 
