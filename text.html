@@ -1,7 +1,36 @@
 Post::create([
     'title' => 'Judul Ketiga',
     'category_id' => 3,
+    'user_id' => 2,
     'slug' => 'judul-ketiga',
     'excerpt' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim adipisci perferendis odit eum reprehenderit impedit quibusdam labore velit quasi veritatis?',
     'body' => '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse nostrum ratione praesentium quae delectus sunt tempora! Adipisci ab neque accusamus?</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora saepe sequi sunt asperiores, nemo voluptatibus iste quidem repellat?</p><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet accusamus officia, voluptas nemo deleniti debitis animi! Dolore eum quibusdam nisi nesciunt itaque ab veritatis.</p>'
 ])
+
+public function up()
+    {
+        Schema::create('users', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->string('email')->unique();
+            $table->string('password');
+            $table->boolean('is_admin')->default(false);
+            $table->rememberToken();
+            $table->timestamps();
+        });
+    }
+
+    public function up()
+    {
+        Schema::create('users', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->string('email')->unique();
+            $table->timestamp('email_verified_at')->nullable();
+            $table->string('password');
+            $table->rememberToken();
+            $table->timestamps();
+        });
+    }
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta illo velit explicabo blanditiis totam nesciunt aliquam qui sed! Reiciendis temporibus, debitis explicabo nam asperiores similique. Nihil, molestias. Dicta quia corporis dolorem accusantium repudiandae atque earum beatae sequi optio officiis tempore blanditiis culpa mollitia laudantium ipsam odit facere voluptates ipsa architecto ipsum ad, et nobis? Culpa vel eaque obcaecati magnam porro, velit unde dolore dolor quos ipsam praesentium esse adipisci veritatis illum officiis quibusdam eligendi maiores pariatur quasi harum quod, voluptate ratione commodi. Exercitationem, hic ratione, laudantium quia nobis esse voluptas quaerat facere aliquid error animi consequuntur voluptatum, ipsa explicabo ullam?
