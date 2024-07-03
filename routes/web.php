@@ -4,6 +4,7 @@ use App\Models\Post;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
 use App\Models\Category;
+use App\Models\User;
 
 /*
 |--------------------------------------------------------------------------
@@ -53,6 +54,13 @@ Route::get('categories/{category:slug}', function(Category $category){
     ]);
 });
 
+Route::get('/authors/{author:username}', function(User $author) {
+    return view('posts', [
+        'title' => 'User Posts',
+        'posts' => $author->posts
+    ]);
+});
+
 
 Route::get('/statistic', function () {
     return view('statistic', [
@@ -61,7 +69,7 @@ Route::get('/statistic', function () {
         "followers" => "Followers: 600"
     ]);
 });
-
+ 
 Route::get('/help', function () {
     return view('help',[
         "title" => "Help"
