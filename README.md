@@ -10,11 +10,13 @@
 ![image](https://github.com/bintikholifah/Blog/assets/87049261/43456623-0251-48cc-b172-daddd69db7fa)
 ## Blog
 Posts
-![image](https://github.com/bintikholifah/Blog/assets/87049261/879ff496-32e6-4429-aef2-22c72476f42f)
+![image](https://github.com/bintikholifah/Blog/assets/87049261/ab124432-2e09-475b-8d25-c9c7a1f718ba)
 Post
-![image](https://github.com/bintikholifah/Blog/assets/87049261/240ca6fa-ed73-4c8c-bcde-3ef482591310)
+![image](https://github.com/bintikholifah/Blog/assets/87049261/a706de5f-a555-4ecb-bd79-23ad4e5d1173)
+Author
+![image](https://github.com/bintikholifah/Blog/assets/87049261/17cf4433-4bb5-4004-b3a9-ee7d59b6768e)
 Category
-![image](https://github.com/bintikholifah/Blog/assets/87049261/cff88308-86c6-4404-965f-3867e68a8dac)s
+![image](https://github.com/bintikholifah/Blog/assets/87049261/0543cb1e-b657-409c-b776-727109c1bfee)
 ## Statistic
 ![image](https://github.com/bintikholifah/Blog/assets/87049261/faee0fb9-7f6f-4efd-8898-603c61e5a6ce)
 ## Help
