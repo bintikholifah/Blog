@@ -5,19 +5,20 @@
 - Booststrap 5.0.2
 
 ## Home
-![image](https://github.com/bintikholifah/Blog/assets/87049261/5433c4e9-34ef-438f-9dbd-1fd6a54dbc0e)
+![image](https://github.com/user-attachments/assets/2522347e-b5ed-4511-b4d3-a0553eeebadf)
 ## About
-![image](https://github.com/bintikholifah/Blog/assets/87049261/43456623-0251-48cc-b172-daddd69db7fa)
+![image](https://github.com/user-attachments/assets/9f4a7436-3a05-40d1-9dc8-55c21f9ba7b6)
 ## Blog
 Posts
-![image](https://github.com/bintikholifah/Blog/assets/87049261/ab124432-2e09-475b-8d25-c9c7a1f718ba)
+![image](https://github.com/user-attachments/assets/b4bbaf12-b981-4bb6-a044-e4acb94726fc)
 Post
-![image](https://github.com/bintikholifah/Blog/assets/87049261/a706de5f-a555-4ecb-bd79-23ad4e5d1173)
+![image](https://github.com/user-attachments/assets/6ef1fae7-e919-4a6c-996d-bae1a3efd81a)
 Author
-![image](https://github.com/bintikholifah/Blog/assets/87049261/17cf4433-4bb5-4004-b3a9-ee7d59b6768e)
+![image](https://github.com/user-attachments/assets/ba4f8d92-06af-48b5-87ba-6358e54a056d)
 Category
-![image](https://github.com/bintikholifah/Blog/assets/87049261/0543cb1e-b657-409c-b776-727109c1bfee)
+![image](https://github.com/user-attachments/assets/52df6882-9971-4429-ba63-901f30158db6)
+![image](https://github.com/user-attachments/assets/2506707d-f09a-46df-a8a4-6991b0e804ea)
 ## Statistic
-![image](https://github.com/bintikholifah/Blog/assets/87049261/faee0fb9-7f6f-4efd-8898-603c61e5a6ce)
+![image](https://github.com/user-attachments/assets/42062864-a266-4cd7-b407-d317e68a83c6)
 ## Help
-![image](https://github.com/bintikholifah/Blog/assets/87049261/affc6687-ea6a-4f47-9f24-8f58b757f832)
+![image](https://github.com/user-attachments/assets/af264142-3316-4623-9ea9-4b8933618703)
